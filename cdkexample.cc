@@ -1,9 +1,10 @@
 /*
- * Usage of CDK Matrix
+ * Ahmed Khan
+ * aak160030@utdallas.edu
+ * CS 3377
+ * Usage of CDK Matrix originally by Dr. Perkins
  *
- * File:   example1.cc
- * Author: Stephen Perkins
- * Email:  stephen.perkins@utdallas.edu
+ * 
  */
 
 #include <iostream>
