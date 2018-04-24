@@ -1,11 +1,13 @@
 #
-# UTD CS3377 CDK Example
-# Dr. Perkins
-# stephen.perkins@utdallas.edu
+# Ahmed Khan
+# aak160030@utdallas.edu
+# CS 3377
+# Modified file originally made by Dr. Perkins
+# 
 #
 
 CXX = g++
-CXXFLAGS = -Wall -g 
+CXXFLAGS = -Wall -g -Wno-write-strings -std=c++0x
 CPPFLAGS = -I/scratch/perkins/include
 LDFLAGS = -L/scratch/perkins/lib
 LDLIBS = -lcdk -lcurses 
